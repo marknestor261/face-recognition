@@ -15,14 +15,14 @@
   
   2. Create two empty folders named 'dataset' and 'trainer' in the above folder.
   
-  3. Run the first code, enter number '1' (for first person), then computer will take your face pictures and save into 'dataset' folder.
+  3. Run the dataset code, enter number '1' (for first person), then computer will take your face pictures and save into 'dataset' folder.
   When you finish taking pictures, "[INFO] Exiting Program and cleanup stuff" pops up.
   
-  (3.5. Run the first code again, enter number '2' (for second person), follow the same procedure.) 
+  (3.5. Run the dataset code again, enter number '2' (for second person), follow the same procedure.) 
 
-  4. Run the second code, just wait several seconds to train the model.
+  4. Run the training code, just wait several seconds to train the model.
   
-  5. Run the third code, it will open your camera and start realtime face recognition.
+  5. Run the recognition code, it will open your camera and start realtime face recognition.
   
 ## Run the following commands in project root folder
     1. Dataset
