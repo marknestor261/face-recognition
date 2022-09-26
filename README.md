@@ -1,7 +1,9 @@
 # face-recognition-python3
 
 ## install these packages on Ubuntu
- ##First get pip
+
+ First get pip
+ 
    sudo apt-get update
    sudo apt-get install python3-pip
    
