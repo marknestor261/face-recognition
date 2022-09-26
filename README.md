@@ -7,13 +7,13 @@
    sudo apt-get update &&
    sudo apt-get install python3-pip
    
-  1. opencv
+  1. opencv:
      pip install opencv-python
     
-  2. numpy
+  2. numpy:
      pip install numpy
     
-  3. pillow
+  3. pillow:
      pip install Pillow
      
 ## There are three steps for face recognition:
