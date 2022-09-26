@@ -34,7 +34,7 @@
     3. Face recognition
        python3 facerec.py
   
-## Incase of issues while traning on Macos or UNIX just run the command:
+## Incase of issues while training on Macos or UNIX just run the command:
     cd into dataset folder then
     rm .DS_Store 
        
