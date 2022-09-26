@@ -1,10 +1,19 @@
 # face-recognition-python3
 
-## install these packages
+## install these packages on Ubuntu
+ First get pip
+   sudo apt-get update
+   sudo apt-get install python3-pip
+   
   1. opencv
+     pip install opencv-python
+    
   2. numpy
+     pip install numpy
+    
   3. pillow
-
+     pip install Pillow
+     
 ## There are three steps for face recognition:
   1. Collecting face data (your face pictures) and labels and save to dataset folder. (code 1)
   2. Input face data and labels into model to train a recognition model. (code 2)
